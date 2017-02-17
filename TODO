@@ -1,0 +1,6 @@
+TODO:
+
+- After onEqual button, store saved result such that user can directly start new expression with an operator such that we would 
+  get "ANS" (operation) number etc..
+- Welcolme screen. Cool Caculator name entry screen for a few seconds, before switching to arithmetic screen.
+- Better art work on UI?
